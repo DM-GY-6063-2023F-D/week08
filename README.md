@@ -1,7 +1,5 @@
 # Week 08
 
-## Noise
+### Sound Files
 
-## The DOM
-
-## Sound Files
+### The DOM
